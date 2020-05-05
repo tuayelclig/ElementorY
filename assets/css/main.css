@@ -369,6 +369,7 @@ h3 {
 
     .custom-info p {
         font-size: 14.4px;
+        margin-right:1rem;
     }
 
     .custom-info-right h3 {
@@ -377,6 +378,7 @@ h3 {
 
     .custom-info-right p {
         font-size: 14.4px;
+        margin-right:1rem;
     }
 
     .tittle-pageblan2 {
@@ -427,20 +429,8 @@ h3 {
         border: 2px solid transparent;
         padding: .5rem 4rem !important;
         margin-left: 0;
+     }
     }
-    
-    .custom-info {
-        text-align: center;
-        padding: 2rem 0;
-        margin-left: 1rem ;
-    }
-
-    .custom-info-right {
-        text-align: center;
-        padding: 2rem 0;
-        margin-right: 1rem ;
-    }
-}
 
 @media (max-width: 767px) {
     .custom-target-2 {
