@@ -369,7 +369,7 @@ h3 {
 
     .custom-info p {
         font-size: 14.4px;
-        margin-right:1rem;
+        text-align:center;
     }
 
     .custom-info-right h3 {
@@ -378,7 +378,6 @@ h3 {
 
     .custom-info-right p {
         font-size: 14.4px;
-        margin-right:1rem;
     }
 
     .tittle-pageblan2 {
