@@ -428,6 +428,18 @@ h3 {
         padding: .5rem 4rem !important;
         margin-left: 0;
     }
+    
+    .custom-info {
+        text-align: center;
+        padding: 2rem 0;
+        margin-left: 1rem ;
+    }
+
+    .custom-info-right {
+        text-align: center;
+        padding: 2rem 0;
+        margin-right: 1rem ;
+    }
 }
 
 @media (max-width: 767px) {
